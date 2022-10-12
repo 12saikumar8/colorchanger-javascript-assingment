@@ -19,3 +19,7 @@
 **Time taken**
 
 1.5 hours.
+
+
+## Deployed link
+[Deployed link](https://color-changer-proj.netlify.app/)
